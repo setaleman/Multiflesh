@@ -1,0 +1,7 @@
+Posta de pierna: 1El total a pagar fue 75.0
+Posta de paleta: 2El total a pagar fue 140.0
+Cabeza de lomo: 3El total a pagar fue 210.0
+Lomo: 4El total a pagar fue 340.0
+Costilla: 5El total a pagar fue 350.0
+Chicharron: 6El total a pagar fue 420.0
+Chorizo criollo: 7El total a pagar fue 70.0
